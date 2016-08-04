@@ -14,16 +14,16 @@ Thursday, August 25th - Basic Electronics, Identifying Components, Power Supplie
 # Week 2
 Tuesday, August 30th - Using a Multimeter, Switches, Materials, Schematics
 
-+ **[LAB 1](/lab-1)**
++ **[LAB 1](/object-fall-16/lab-1)**
 
 Thursday, September 1st - Understanding Electricity, Prototyping Circuits, Project Planning
 
-+ **[LAB 2](/lab-2)**
++ **[LAB 2](/object-fall-16/lab-2)**
 
 # Week 3
 Tuesday, September 6th - Interaction Design, Feedback Loops, Project Check-in
 
-+ **[LAB 3](/lab-3)**
++ **[LAB 3](/object-fall-16/lab-3)**
 
 Thursday, September 8th - Enclosures, Prototyping, Soldering
 
@@ -31,14 +31,14 @@ Thursday, September 8th - Enclosures, Prototyping, Soldering
 # Week 4
 Tuesday, September 13th - Project Critique
 
-+ **[PROJECT 1](/project-1)**
++ **[PROJECT 1](/object-fall-16/project-1)**
 
 Thursday, September 15th - Introduction to Arduino, Microcontroller basics, Digital in/out
 
 # Week 5
 Tuesday, September 20th - Analog input, mapping values, Serial out: print and println, testing sensors
 
-+ **[LAB 4](/lab-4)**
++ **[LAB 4](/object-fall-16/lab-4)**
 
 Thursday, September 22nd - Analog out, PWM vs frequency modulation, libraries in Arduino
 
@@ -47,21 +47,21 @@ Thursday, September 22nd - Analog out, PWM vs frequency modulation, libraries in
 # Week 6
 Tuesday, September 27th - DIY Arduino, ATMega, Reading Data Sheets, Analog Circuits
 
-+ **[LAB 5](/lab-5)**
++ **[LAB 5](/object-fall-16/lab-5)**
 
 Thursday, September 29th - Open Source Hardware, Project Planning
 
 # Week 7
 Tuesday, October 4th - Transistors, Motors, Relays
 
-+ **[LAB 6](/lab-6)**
++ **[LAB 6](/object-fall-16/lab-6)**
 
 Thursday, October 6th - More Motors
 
 # Week 8
 Tuesday, October 11th - Work day
 
-+ **[LAB 7](/lab-7)**
++ **[LAB 7](/object-fall-16/lab-7)**
 
 Thursday, October 13th - Schematics, Fritzing, EagleCAD, PCBs
 
@@ -70,7 +70,7 @@ Tuesday, October 18th - Work day
 
 Thursday, October 20th - Presentations 
 
-+ **[PROJECT 2](/project-2)**
++ **[PROJECT 2](/object-fall-16/project-2)**
 
 # Week 10
 Tuesday, October 25th - Project Discussion 
@@ -82,14 +82,14 @@ Tuesday, November 1st - Introduction to Serial Communication
 
 Thursday, November 3rd - Serial Communication: sending Bytes out and ascii interpretation
 
-+ **[SPARKFUN VISIT](/sparkfun)**
++ **[SPARKFUN VISIT](/object-fall-16/sparkfun)**
 
 # Week 12
 Tuesday, November 8th - Serial Communication: Arduino to P5
 
 Thursday, November 10th - Midi and other Protocols
 
-+ **[LAB 8](/lab-8)**
++ **[LAB 8](/object-fall-16/lab-8)**
 
 # Week 13
 Tuesday, November 15th - Wireless
@@ -113,6 +113,6 @@ Tuesday, December 6th - Work day
 
 Thursday, December 8th - Presentations
 
-+ **[PROJECT 3](/project-3)**
++ **[PROJECT 3](/object-fall-16/project-3)**
 
 # FINALS SCHEDULE
