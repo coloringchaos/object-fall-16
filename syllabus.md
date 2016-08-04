@@ -42,9 +42,9 @@ Grades will be determined according to the following breakdown:
 
 Attendance and Participation: 25% <br>
 Documentation, Assignments, Quizzes: 40% <br>
-Project 1: 10% <br>
-Project 2: 10% <br>
-Project 3: 15% <br>
+Project 1: 5% <br>
+Project 2: 12% <br>
+Project 3: 18% <br>
 
 A = excellent work (90-100%) <br>
 B = above average work (80-89%) <br>
@@ -83,16 +83,16 @@ Both in-class and take-home quizzes will be assigned throughout the semester.
 
 
 # Readings & Assignments
-Weekly assignments will include relevant readings, videos, and observation exercises. You are expected to document all work to your blog and sumbmit links to these posts on Edmodo. This includes your successes, failures, reading responses, project ideas and inspiration.
+Weekly assignments will include relevant readings, videos, and observation exercises. You are expected to document all work to your blog. This includes your successes, failures, reading responses, project ideas and inspirations.
 
-Readings are mandatory! Come to class prepared to discuss any assigned reading materials; you may also be given in-class pop-quizzes about any assigned readings. 
+*Readings are mandatory!* Come to class prepared to discuss any assigned reading materials; you will occasionally be given in-class pop-quizzes about any assigned readings. 
 
 
 
 # Blog & Documentation
 You are expected to keep an online journal of your progress in this course. At a minimum, I expect you to summarize any insights you have in each week's work, to discuss any readings, and to thoroughly document your production projects and technical research. I encourage you to read and comment on each other's posts.
 
-Please make sure your blog assignments are online the night before class (by 8pm) to ensure that your classmates and I can read them before class.
+Please make sure your blog assignments are online the night before class (by 11pm) to ensure that your classmates and I can read them before class.
 
 
 
@@ -108,7 +108,7 @@ Any additional parts or materials required for midterm or final projects will be
 # BTU Lab
 This lab is your maker space!
 
-In the second or third week of the semester we will run a lab orientation session during class. After completing this orientation, all enrolled Object students will officially become lab members. After orientation, you can also sign up to complete a 2 hour laser cutter training session (this is mandatory for anyone intersted in using the laser!).
+In the second or third week of the semester we will run a lab orientation session during class. After completing this orientation, all enrolled Object students will officially become lab members. 
 
 For more about the lab visit [BTUlab.com](http://www.btulab.com/)
 

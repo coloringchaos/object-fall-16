@@ -21,11 +21,11 @@ Thursday, September 1st - Understanding Electricity, Prototyping Circuits, Proje
 + **[LAB 2](/lab-2)**
 
 # Week 3
-Tuesday, September 6th - Interaction Design, Project 1 check-in
+Tuesday, September 6th - Interaction Design, Feedback Loops, Project Check-in
 
 + **[LAB 3](/lab-3)**
 
-Thursday, September 8th - Feedback Loops, Enclosures, Prototyping, Soldering
+Thursday, September 8th - Enclosures, Prototyping, Soldering
 
 
 # Week 4
@@ -33,7 +33,7 @@ Tuesday, September 13th - Project Critique
 
 + **[PROJECT 1](/project-1)**
 
-Thursday, September 15th - Intro to Arduino, Microcontroller basics, Digital in/out
+Thursday, September 15th - Introduction to Arduino, Microcontroller basics, Digital in/out
 
 # Week 5
 Tuesday, September 20th - Analog input, mapping values, Serial out: print and println, testing sensors
@@ -45,11 +45,11 @@ Thursday, September 22nd - Analog out, PWM vs frequency modulation, libraries in
 + **[QUIZ 1]()**
 
 # Week 6
-Tuesday, September 27th - DIY Arduino, ATMega, Analog Circuits
+Tuesday, September 27th - DIY Arduino, ATMega, Reading Data Sheets, Analog Circuits
 
 + **[LAB 5](/lab-5)**
 
-Thursday, September 29th - Project Planning, Work day
+Thursday, September 29th - Open Source Hardware, Project Planning
 
 # Week 7
 Tuesday, October 4th - Transistors, Motors, Relays
@@ -78,16 +78,16 @@ Tuesday, October 25th - Project Discussion
 *Thursday, October 27th - NO CLASS*
 
 # Week 11
-*Tuesday, November 1st - NO CLASS*
+Tuesday, November 1st - Introduction to Serial Communication
 
-Thursday, November 3rd - Serial Communication 
+Thursday, November 3rd - Serial Communication: sending Bytes out and ascii interpretation
 
 + **[SPARKFUN VISIT](/sparkfun)**
 
 # Week 12
-Tuesday, November 8th - Serial Communication
+Tuesday, November 8th - Serial Communication: Arduino to P5
 
-Thursday, November 10th - Serial Communication
+Thursday, November 10th - Midi and other Protocols
 
 + **[LAB 8](/lab-8)**
 
