@@ -22,12 +22,31 @@ This page will contain a collection of links and learning resources to help you 
 # Fabrication
 + Adafruit's awesome tutorial on [Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering)
 + Andy Sigler's [How to Solder Video](https://vimeo.com/107049478)
++ [Mekanizmalar.com](http://www.mekanizmalar.com/) – a great series of animations illustrating different mechanisms.
 
 
 # Books
-+ There are No Electronics for Earthlings
-+ Shaping Things
-+ Enchanged Objects
-+ Making things Talk
-+ Talk To Me
-+ Speculative Everything
+
+*Weekly readings will come from several of these texts.*
+
++ [There Are No Electrons: Electronics for Earthlings](https://www.amazon.com/There-Are-Electrons-Electronics-Earthlings/dp/0962781592/ref=sr_1_1?ie=UTF8&qid=1470327564&sr=8-1&keywords=there+are+no+electrons) by Kenn Amdahl
++ [Shaping Things](https://mitpress.mit.edu/books/shaping-things) by Bruce Sterling
++ [Enchanged Objects](http://enchantedobjects.com/) by David Rose
++ [Making things Talk](http://shop.oreilly.com/product/9780596510510.do) by Tom Igoe  **2nd edition is coming out soon - hold out for that!
++ [Talk To Me](https://www.amazon.com/Talk-Me-Communication-between-Objects/dp/0870707965/ref=sr_1_1?ie=UTF8&qid=1470327769&sr=8-1&keywords=talk+to+me+paola) by Paola Antonelli
++ [Speculative Everything](https://mitpress.mit.edu/books/speculative-everything) by Anthony Dunne and Fiona Raby
++ The Art of Interactive Deisgn by Chris Crawford
++ The Design of Everyday Things by Donald A. Norman
++ Emotional Design: Why We Love (or Hate) Everyday Things by Donald A. Norman
++ Bill Verplank’s [interaction design sketchbook](http://billverplank.com/IxDSketchBook.pdf),  a useful introduction to what is interaction design.
+
+
+
+# Suppliers
++ Sparkfun
++ Adafruit
++ Digikey
++ Pololu
++ McMaster-Carr
+
+
