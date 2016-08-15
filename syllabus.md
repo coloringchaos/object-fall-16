@@ -10,7 +10,7 @@ permalink: /syllabus/
 
 **Instructor:** Arielle Hein <br>
 **Email:** arielle.hein@colorado.edu<br>
-**Office Hours:** [sign up here]() or email me for additional times
+**Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I) or email me for additional times
 
 
 
