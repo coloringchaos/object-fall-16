@@ -41,7 +41,7 @@ This page has a breakdown of the general content that we will cover in each clas
 # Week 4
 **Tuesday, September 13th** - Project Critique
 
-+ **Due: [Project 1]()** 
++ **Due: [Project 1](/object-fall-16/project-1)** 
 
 **Thursday, September 15th** - Introduction to Arduino, Microcontroller basics, Digital in/out
 
