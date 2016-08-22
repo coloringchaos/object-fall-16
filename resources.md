@@ -15,6 +15,7 @@ This page will contain a collection of links and learning resources to help you 
 
 
 # Physical Computing
++ [Sparkfun Inventor Kit Guide](https://cdn.sparkfun.com/datasheets/Kits/RedBoard_SIK_3.2.pdf) has a huge collection of circuits and tutorials for basic circuits
 + Sparkfun's explaination of an [Integrated Circuit (IC)](https://learn.sparkfun.com/tutorials/integrated-circuits).
 + Arduino's explaination of [what happens when you hit Upload](https://www.arduino.cc/en/Hacking/BuildProcess).
 
@@ -25,7 +26,7 @@ This page will contain a collection of links and learning resources to help you 
 + [Mekanizmalar.com](http://www.mekanizmalar.com/) – a great series of animations illustrating different mechanisms.
 
 
-# Books
+# Books / Readings
 
 *Weekly readings will come from several of these texts.*
 
@@ -35,18 +36,18 @@ This page will contain a collection of links and learning resources to help you 
 + [Making things Talk](http://shop.oreilly.com/product/9780596510510.do) by Tom Igoe  **2nd edition is coming out soon - hold out for that!
 + [Talk To Me](https://www.amazon.com/Talk-Me-Communication-between-Objects/dp/0870707965/ref=sr_1_1?ie=UTF8&qid=1470327769&sr=8-1&keywords=talk+to+me+paola) by Paola Antonelli
 + [Speculative Everything](https://mitpress.mit.edu/books/speculative-everything) by Anthony Dunne and Fiona Raby
-+ The Art of Interactive Deisgn by Chris Crawford
-+ The Design of Everyday Things by Donald A. Norman
-+ Emotional Design: Why We Love (or Hate) Everyday Things by Donald A. Norman
++ [The Art of Interactive Deisgn](https://www.amazon.com/Art-Interactive-Design-Euphonious-Illuminating/dp/1886411840) by Chris Crawford
++ [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?s=books&ie=UTF8&qid=1471901655&sr=1-1&keywords=design+of+everyday+things) by Donald A. Norman
++ [Emotional Design: Why We Love (or Hate) Everyday Things](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367/ref=sr_1_1?s=books&ie=UTF8&qid=1471901674&sr=1-1&keywords=emotional+design) by Donald A. Norman
 + Bill Verplank’s [interaction design sketchbook](http://billverplank.com/IxDSketchBook.pdf),  a useful introduction to what is interaction design.
 
 
 
 # Suppliers
-+ Sparkfun
-+ Adafruit
-+ Digikey
-+ Pololu
-+ McMaster-Carr
++ [Sparkfun](https://www.sparkfun.com/) - for all things! Local pickup is available!
++ [Adafruit](http://www.adafruit.com/) - for all things! Fun sensors, etc.. Ships from NYC.
++ [Digikey](http://www.digikey.com/) - huge component distributer, great for cheap electronic components or things in bulk
++ [Pololu](https://www.pololu.com/) - for robotics parts, motors, etc..
++ [McMaster-Carr](http://www.mcmaster.com/) - for mechanical / electrical / utility hardware
 
 

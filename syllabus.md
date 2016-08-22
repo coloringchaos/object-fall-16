@@ -10,7 +10,7 @@ permalink: /syllabus/
 
 **Instructor:** Arielle Hein <br>
 **Email:** arielle.hein@colorado.edu<br>
-**Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I) or email me for additional times
+**Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I)
 
 
 
@@ -23,8 +23,6 @@ Physical computing takes a hands-on approach, which means that you spend a lot o
 
 Although programming is required to successfully complete projects and assignments, we will NOT be spending any time on introductory programming concepts. You should already be comfortable with general programming concepts (variables, loops, data types, etc.).
 
-
-
 # Class Expectations
 + Arrive on time.
 + Turn cell phones off.
@@ -33,18 +31,37 @@ Although programming is required to successfully complete projects and assignmen
 + Get comfortable with failure.
 + You can do this.
 
+# Attendance
+Attendance is mandatory. Students are allowed three absences* after which their final grade will be reduced by 10% for each additional absence. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence. Please inform me via email if you are going to miss a class.
+
+**All absences fall under these three absences (e.g. minor illnesses and injuries, oversleeping, vacations, job interviews, ski-days, family obligations and situations, etc.) so it is not wise to use them all at the start of the semester. Exceptions may be made for religious holidays, severe illnesses, and prolonged family emergencies.*
+
+# Participation
+This is a participatory course. You are expected to participate in discussions and give feedback to other students both in class and participate with their projects. Be cognizant of how you interact in class discussions. If you find yourself commenting more frequently than most other people in the class, step back and give others a chance to contribute (even if you have something to say). If you tend to hesitate to join discussions, challenge yourself to jump in. Additionally, I encourage you to utilize the blogs as a way to connect with your classmates and share your ideas.
+
+I take critiques very seriously. Even if your project is not fully completed, it is required that you come to class to give feedback on your classmate's projects. It will affect your grade negatively if you do not show up for critique. Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need prepared, tested and ready to present. Student computers will be shut off and full participation is expected when projects are being presented.
 
 
 # Grading
-Students will be assessed on conceptual ideas, technical skills, critical thinking, documentation, participation and attendance. Projects will be assessed on conceptual thought, creativity, originality and aesthetic qualities, experimentation and use of creative engineering solutions. Work must be presented on the date it is due (even if something isn't working!).
+Students will be assessed on conceptual ideas, technical skills, critical thinking, documentation, participation and attendance. Projects will be assessed on conceptual thought, creativity, originality and aesthetic qualities, experimentation and use of creative engineering solutions. Work must be presented on the date it is due (even if something isn't working!). 
 
-Grades will be determined according to the following breakdown:
+If you turn in all your work on time (and if it is satisfactorily completed), and if you attend class and participate, you are ensured a C. A’s and B’s are reserved for students who excel beyond average and competent work. Individual projects that are turned in late will result in the grade being lowered for that project. Feedback through the form of critique is also essential; absence from any of the class critiques will result in a drop of one letter grade for that assignment.
 
-Attendance and Participation: 25% <br>
-Documentation, Assignments, Quizzes: 40% <br>
-Project 1: 5% <br>
-Project 2: 12% <br>
-Project 3: 18% <br>
+Large projects turned in late will be graded 10% lower for each day that they are late. Small weekly assignments turned in late will be accepted for half credit for one week after their initial due date. After one week, late small assignments will no longer be accepted for credit.
+
+*Grades will be determined according to the following breakdown:*
+
+|---------------|--------:|
+| Project 1 				| 50 pts |
+| Project 2 				| 100 pts |
+| Project 3 				| 150 pts |
+| Labs - 8 total			| 240 pts |
+| Quizzes - 2 total			| 160 pts |
+| Documentation (Blog) 		| 150 pts |
+| Attendance & Participation| 150 pts |
+{:.mbtablestyle}
+
+<br>
 
 A = excellent work (90-100%) <br>
 B = above average work (80-89%) <br>
@@ -52,22 +69,7 @@ C = average or competent work (70-79%) <br>
 D = below average work (60-69%) <br>
 F = unsatisfactory work (0-59%) <br>
 
-If you turn in all your work on time (and if it is satisfactorily completed), and if you attend class and participate, you are ensured a C. A's and B's are reserved for students who excel beyond average and competent work. You are required to earn a C letter grade or higher in order to continue course work in the TAM program.
-
-
-
-# Attendance
-Attendance is mandatory. Please inform me via email if you are going to miss a class. You are allowed 2 absences (not applicable to critique days), every absence after that will result in the lowering of the final letter grade by 10%. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence.
-
-Individual projects that are turned in late will result in the grade being lowered for that project. Feedback through the form of critique is also essential; absence from any of the class critiques will result in a drop of one letter grade for that assignment.
-
-
-
-# Participation
-This is a participatory course. You are expected to participate in discussions and give feedback to other students both in class and participate with their projects. Be cognizant of how you interact in class discussions. If you find yourself commenting more frequently than most other people in the class, step back and give others a chance to contribute (even if you have something to say). If you tend to hesitate to join discussions, challenge yourself to jump in. Additionally, I encourage you to utilize the blogs as a way to connect with your classmates and share your ideas.
-
-I take critiques very seriously. Even if your project is not fully completed, it is required that you come to class to give feedback on your classmatesâ€™ projects. It will affect your grade negatively if you do not show up for critique. Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need prepared, tested and ready to present. Student computers will be shut off and full participation is expected when projects are being presented.
-
+*You are required to earn a C letter grade or higher in order to continue course work in the TAM program.*
 
 
 # Projects
@@ -76,32 +78,28 @@ You will complete three detailed production assignments over the course of the t
 
 
 # Labs & Quizzes
-There is a lab activity for nearly every week during the first half of the semester. They are short, simple activities meant to help you understand the principles discussed in class and become familiar with physical computing technologies. 
+There is a lab activity for nearly every week during the first half of the semester. They are short, simple assignments meant to help you understand the principles discussed in class and become familiar with physical computing technologies. 
 
-Both in-class and take-home quizzes will be assigned throughout the semester.
+You will take two quizzes over the course of the semester. Both are open note / open internet in-class assessments. 
 
 
 
 # Readings & Assignments
 Weekly assignments will include relevant readings, videos, and observation exercises. You are expected to document all work to your blog. This includes your successes, failures, reading responses, project ideas and inspirations.
 
-*Readings are mandatory!* Come to class prepared to discuss any assigned reading materials; you will occasionally be given in-class pop-quizzes about any assigned readings. 
+*Readings are mandatory!* Come to class prepared to discuss any assigned reading materials; you may occasionally be given in-class pop-quizzes about any assigned readings (which would contribute toward your overall participation grade). 
 
 
 
 # Blog & Documentation
 You are expected to keep an online journal of your progress in this course. At a minimum, I expect you to summarize any insights you have in each week's work, to discuss any readings, and to thoroughly document your production projects and technical research. I encourage you to read and comment on each other's posts.
 
-Please make sure your blog assignments are online the night before class (by 11pm) to ensure that your classmates and I can read them before class.
-
 
 
 # Materials
-You will be provided with a basic prototyping kit for this course which will allow you to complete all necessary labs and homework assignments. 
+You will be provided with a basic prototyping kit for this course which will allow you to complete all necessary labs and homework assignments. **You are required to bring the materials given to you each class period!**
 
-You are required to bring the materials given to you each class period!
-
-Any additional parts or materials required for midterm or final projects will be your responsibility to acquire. You should plan to budget approximately $200 for this course. Some projects can be completed for less than $15, others might require components and materials costing as much as $150+. 
+Any additional parts or materials required for projects will be your responsibility to acquire. It is advised to **budget approximately $200 for this course** to account for materials expenses. Some projects can be completed for less than $15, others might require components and materials costing as much as $150+. You will have full access to the BTU Lab and you are welcome to use the materials there, but you should not rely on these supplies to produce your assignments.
 
 
 
