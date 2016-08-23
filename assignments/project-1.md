@@ -19,7 +19,9 @@ Build a physically interactive project *without a microcontroller*. Your focus i
 
 #### **Grading Criteria:**
 
-20% each: Enclosure, Feedback & Interaction Design, Hardware, Creativity, Documentation
+10 points each: Enclosure, Feedback & Interaction Design, Hardware, Creativity, Documentation
+
+**Project 1 is worth 50 pts total**
 
 You are expected to document your work thoroughly on your blog as you go - your grade for this project will be based on your in-class demonstration and on the documentation you publish to your blog. Include details of all phases of the project. Include a project summary as well, explaining what the system you built is, what it does, and what purpose it’s intended to serve. Your summary should introduce the project as if the reader has never heard of the project before.
 
@@ -36,6 +38,4 @@ You are expected to document your work thoroughly on your blog as you go - your 
 **Tuesday, September 13th** - in-class demonstration and critique of finished project
 
 **Friday, September 16th @ 8pm** - documentation due to your blog. Submit a link to your blog documentation on Edmodo.
-
-#### **Project 1 is worth 50 pts**
 
