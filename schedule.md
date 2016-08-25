@@ -26,13 +26,14 @@ This page has a breakdown of the general content that we will cover in each clas
 **Thursday, September 1st** - Understanding Electricity, Prototyping Circuits, Project Planning
 
 + **Read:** Tom Igoe on [Physical Computing's Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/)
++ **Read:** Chris Crawford [What Exactly is Interactivity?](http://object.ariellehein.com/readings/theartofinteractivedesign-ch1.pdf)
++ **Blog:** post a written reaction to Crawford and answer the questions at the end of the reading
 
 # Week 3
 **Tuesday, September 6th** - Interaction Design, Feedback Loops, Project Check-in
 
 + **Due: [Lab 2]()**
-+ **Read:** Chris Crawford [What Exactly is Interactivity?](http://object.ariellehein.com/readings/theartofinteractivedesign-ch1.pdf)
-+ **Blog:** post a written reaction to Crawford and answer the questions at the end of the reading
+
 
 **Thursday, September 8th** - Enclosures, Prototyping, Soldering
 
