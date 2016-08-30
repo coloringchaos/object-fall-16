@@ -30,9 +30,9 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Blog:** post a written reaction to Crawford and answer the questions at the end of the reading
 
 # Week 3
-**Tuesday, September 6th** - Interaction Design, Feedback Loops, Project Check-in
+**Tuesday, September 6th** - BTU Orientation, Interaction Design, Feedback Loops, Project Check-in
 
-+ **Due: [Lab 2]()**
++ **Due: [Lab 2](/object-fall-16/lab-2)**
 
 
 **Thursday, September 8th** - Enclosures, Prototyping, Soldering
