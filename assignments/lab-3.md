@@ -11,8 +11,8 @@ permalink: /lab-3/
 
 **Tasks:**
 
-1. Choose a circuit that you made already in this class (from lab 1 or 2). Draw the schematic for that circuit, and transfer it to a small piece of a [protoboard](https://www.sparkfun.com/products/13268). 
-2. Solder your components to the board and figure out some way to power your circuit <br> *(pro tip: don't use components for this lab that you will miss being able to prototype with...)*
+1. Choose a circuit that you made already in this class (from lab 1 or 2). Draw the schematic for that circuit, then transfer the components from the breadboard to a small piece of [protoboard](https://www.sparkfun.com/products/13268). 
+2. Solder your components to the protoboard and figure out a way to power your circuit <br> *(pro tip: don't use components for this lab that you will miss being able to prototype with...)*
 
 
 **Lab 2 Resources:**
