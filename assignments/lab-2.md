@@ -4,15 +4,12 @@ title: Lab 2
 permalink: /lab-2/
 ---
 
-
 **Lab Objectives:**
 
 + Use a multimeter to check connectivity
 + Build circuits in series and parallel
 + Explore non-traditional materials
 + Draw schematics by hand
-
-
 
 **Tasks:**
 
@@ -26,12 +23,11 @@ permalink: /lab-2/
 + [Series and Parallel Circuits](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits) 
 + [ITP Electronics Lab](https://itp.nyu.edu/physcomp/labs/labs-electronics/electronics/)
 + [Chibitronics Paper Circuits](https://chibitronics.com)
++ [Schematic Diagram Videos](https://itp.nyu.edu/physcomp/videos/videos-schematic-diagrams/)
 
 **Blog Response:** 
 
-+ Explain the difference between series and parallel circuits. What kind of circuit would be a more reliable option for connecting several LEDs? Why?
++ Briefly explain the difference between series and parallel circuits. What kind of circuit would be a more reliable option for connecting several LEDs? Why?
 + Post photos and of the circuits you built and label each with a caption. For the breadboarded circuits, also post a schematic drawing for each.
-
-
 
 **Lab 2 is due before class on Tuesday September 6th.** Submit a link to your blog post on Edmodo. 
