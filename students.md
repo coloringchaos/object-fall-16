@@ -6,18 +6,18 @@ permalink: /students/
 
 This page contains links to the web portals of all students enrolled in the class. 
 
-[Paige Alleman]()<br>
+[Paige Alleman](https://paigelalleman.wordpress.com/category/object/)<br>
 [Lupe Avalos](https://lupitasnoticias.wordpress.com/category/object/)<br>
-[Marla Bernstein]()<br>
-[Gregory Blumer]()<br>
+[Marla Bernstein](https://marlabernstein.wordpress.com/)<br>
+[Greg Blumer](https://explorationofphysicalcomputing.wordpress.com/)<br>
 [Carolyn Castanon](https://crashandburnweb.wordpress.com/)<br>
-[Jimmy Cordova]()<br>
-[Jack DeMay]()<br>
-[Jill Esquivel]()<br>
+[Jimmy Cordova](https://jimmycordovatam.wordpress.com/category/object-fall-16/)<br>
+[Jack DeMay](https://jdemayblog.wordpress.com/)<br>
+[Jill Esquivel](https://jillesquivel.wordpress.com/)<br>
 [Gavin Frausto]()<br>
-[Michael Gough]()<br>
-[Taylor Hershberger]()<br>
+[Michael Gough](https://7michaelg7.wordpress.com/)<br>
+[Taylor Hershberger](https://thershblog.wordpress.com/)<br>
 [Eli Hirsch]()<br>
 [Ariel Riggan](https://followtheworkwithariel.wordpress.com/object-atls-3519/)<br>
-[Harry Spetnagel]()<br>
-[Chandler Zastrow]()<br>
+[Harry Spetnagel](https://harryspetnagelobjectblog.wordpress.com/)<br>
+[Chandler Zastrow](http://zastrowcc.wixsite.com/mysite-1)<br>

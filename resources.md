@@ -6,6 +6,11 @@ permalink: /resources/
 
 This page will contain a collection of links and learning resources to help you in this class. None of these are required readings, just helpful references. If you find any good links, or feel this page should change in some way, please let me know. I will continually be adding to and updating this page over the course of the semester.
 
+# BTU LAB Things
++ BTU Website
++ [Laser Cutter Signup](https://calendar.google.com/calendar/selfsched?sstoken=UU9FZGFEYlR1UnBEfGRlZmF1bHR8YjBjYTkyMTVlZjRmYjFiNGE0ZDdlMmRkNTUxY2YzZmM)
++ [Lully Signup](https://calendar.google.com/calendar/selfsched?sstoken=UUI4QVNPa1owSmdSfGRlZmF1bHR8N2Y0NTQyYzIzN2IzMTU2ZGQzZDM1ZWQzMzEyNTZlY2Q) - BTU Lab 3D Printer 
+
 
 # General Stuff
 + [Electronics Club](http://electronicsclub.info/) is a site written by beginners but used my many as a reference, great for anyone wishing to learn about electronics or build simple projects.

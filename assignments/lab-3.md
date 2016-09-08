@@ -17,7 +17,7 @@ permalink: /lab-3/
 
 **Lab 2 Resources:**
 
-+ Andy Sigler's [How to Solder Video](https://vimeo.com/107049478)
++ [How to Solder Video](https://vimeo.com/107049478)
 
 
 **Blog Response:** 

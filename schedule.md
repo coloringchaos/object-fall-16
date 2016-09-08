@@ -23,7 +23,7 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Due: [Lab 1](/object-fall-16/lab-1)**
 + **Read:** [What is Electricity](https://learn.sparkfun.com/tutorials/what-is-electricity)
 
-**Thursday, September 1st** - Understanding Electricity, Power Supplies, Soldering, Project Planning
+**Thursday, September 1st** - Series and Parallel Circuits, Power Supplies, Soldering, Project Planning
 
 + **Watch:** [Ohm's Law Part 1](https://vimeo.com/album/2801639/video/76442432) and [Part 2](https://vimeo.com/album/2801639/video/76442431)
 + **Read:** Tom Igoe on [Physical Computing's Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/)
@@ -35,7 +35,7 @@ This page has a breakdown of the general content that we will cover in each clas
 **Tuesday, September 6th** - BTU Orientation, Prototyping Enclosures, Laser Cutting, Project Check-in
 
 + **Watch:** Schematics: [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
-+ **Watch:** [How To Solder](https://vimeo.com/107049478)
+<!-- + **Watch:** [How To Solder](https://vimeo.com/107049478) -->
 + **Due: [Lab 2](/object-fall-16/lab-2)**
 
 
@@ -44,7 +44,7 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Due: [Lab 3](/object-fall-16/lab-3)**
 
 # Week 4
-**Tuesday, September 13th** - Project Critique
+**Tuesday, September 13th** - Project Critique, Documentation
 
 + **Due: [Project 1](/object-fall-16/project-1)** 
 
