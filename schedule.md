@@ -39,7 +39,7 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Due: [Lab 2](/object-fall-16/lab-2)**
 
 
-**Thursday, September 8th** - Enclosures, Interaction Design, Feedback Loops
+**Thursday, September 8th** - Enclosures, Laser Cutting, Work Time
 
 + **Due: [Lab 3](/object-fall-16/lab-3)**
 
