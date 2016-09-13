@@ -60,12 +60,12 @@ This page has a breakdown of the general content that we will cover in each clas
 
 + **Due: [Lab 4](/object-fall-16/lab-4)**
 
-**Thursday, September 22nd** - Quiz 1, Analog out, PWM vs frequency modulation, libraries in Arduino
+**Thursday, September 22nd** - Analog out, PWM vs frequency modulation, libraries in Arduino
 
 + **Due: [Lab 5]()**
 
 # Week 6
-**Tuesday, September 27th** - DIY Arduino, ATMega, Reading Data Sheets, Analog Circuits
+**Tuesday, September 27th** - Quiz 1, DIY Arduino, ATMega, Reading Data Sheets, Analog Circuits
 
 + **In Class: [Quiz 1]()**
 
