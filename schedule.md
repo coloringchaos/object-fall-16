@@ -50,19 +50,24 @@ This page has a breakdown of the general content that we will cover in each clas
 
 **Thursday, September 15th** - Introduction to Arduino, Microcontroller basics, Digital in/out
 
++ **Read:** [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontrollers-the-basics/)
++ **Read:** [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
+
+***Project 1 Documentation is due at 8pm on Friday, September 16th***
+
 # Week 5
 **Tuesday, September 20th** - Analog input, mapping values, Serial out: print and println, testing sensors
 
-+ **Due: [Lab 4]()**
++ **Due: [Lab 4](/object-fall-16/lab-4)**
 
 **Thursday, September 22nd** - Quiz 1, Analog out, PWM vs frequency modulation, libraries in Arduino
 
-+ **In Class: [Quiz 1]()**
++ **Due: [Lab 5]()**
 
 # Week 6
 **Tuesday, September 27th** - DIY Arduino, ATMega, Reading Data Sheets, Analog Circuits
 
-+ **Due: [Lab 5]()**
++ **In Class: [Quiz 1]()**
 
 **Thursday, September 29th** - Open Source Hardware, Project Planning
 

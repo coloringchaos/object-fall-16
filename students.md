@@ -17,7 +17,7 @@ This page contains links to the web portals of all students enrolled in the clas
 [Gavin Frausto]()<br>
 [Michael Gough](https://7michaelg7.wordpress.com/)<br>
 [Taylor Hershberger](https://thershblog.wordpress.com/)<br>
-[Eli Hirsch]()<br>
+[Eli Hirsch](https://elihirschblog.wordpress.com/)<br>
 [Ariel Riggan](https://followtheworkwithariel.wordpress.com/object-atls-3519/)<br>
 [Harry Spetnagel](https://harryspetnagelobjectblog.wordpress.com/)<br>
 [Chandler Zastrow](http://zastrowcc.wixsite.com/mysite-1)<br>

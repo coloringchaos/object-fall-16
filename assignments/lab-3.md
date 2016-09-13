@@ -15,7 +15,7 @@ permalink: /lab-3/
 2. Solder your components to the protoboard and figure out a way to power your circuit <br> *(pro tip: don't use components for this lab that you will miss being able to prototype with...)*
 
 
-**Lab 2 Resources:**
+**Lab 3 Resources:**
 
 + [How to Solder Video](https://vimeo.com/107049478)
 
