@@ -60,4 +60,4 @@ Hint: use the following functions in your program:
 
 # **Lab 4 is due before class on Tuesday September 20th.** 
 
-Your blog response should include a *clear* video of your working circuit and a brief description of what you made. Submit a link to your blog post on Edmodo. 
+Your blog response should include a *clear* video of your working circuit and a brief description of what you made. Also post your code (a screenshot is ok). Submit a link to your blog post on Edmodo. 
