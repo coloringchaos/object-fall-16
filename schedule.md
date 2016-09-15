@@ -59,6 +59,7 @@ This page has a breakdown of the general content that we will cover in each clas
 **Tuesday, September 20th** - Analog input, mapping values, Serial out: print and println, testing sensors
 
 + **Due: [Lab 4](/object-fall-16/lab-4)**
++ **Read:** [Analog vs Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 
 **Thursday, September 22nd** - Analog out, PWM vs frequency modulation, libraries in Arduino
 

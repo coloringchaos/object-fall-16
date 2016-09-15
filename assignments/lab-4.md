@@ -10,7 +10,7 @@ permalink: /lab-4/
 + Build a circuit with one digital input (a switch) and two digital outputs (LEDs)
 + Program the Arduino to power the LEDs based on the switch state
 
-# **Lab 2 Resources:**
+# **Lab 4 Resources:**
 
 + Videos on [Digital Input](https://vimeo.com/86548673) and [Digital Output](https://vimeo.com/86534049)
 + Notes on [Microcontroller Digital In and Out](https://itp.nyu.edu/physcomp/lessons/microcontrollers/digital-input-output/)
@@ -45,7 +45,11 @@ If you don’t have a 10-kilohm resistor for the switch, you can use any reasona
 
 *Note on LED Resistor Values* - For the resistor on the LED, the higher the resistor value, the dimmer your LED will be. So 220-ohm resistors give you a nice bright LED, 1-kilohm will make it dimmer, and 10K or higher will likely make it too dim to see.
 
-**Program the Arduino** - Connect the microcontroller to your computer via USB. When you plug the Arduino into your computer, you’ll find a new serial port in the Tools–>Serial Port menu (for details on installing the software, and USB-to-serial drivers for older Arduino models, see the [Arduino Getting Started Guide](https://www.arduino.cc/en/Guide/HomePage)). In OSX, the name will begin with */dev/tty.usbmodem-* if it’s an Arduino Uno later, and */dev/tty.usbserial-* if it’s a Duemilanove or earlier. In Windows it will start with *COM* like all the other serial ports.
+**Program the Arduino** - Connect the microcontroller to your computer via USB. 
+
+Select your board - choose *Tools > Board* then select **Arduino/Genuino Uno**
+
+Select your port - When you plug the Arduino into your computer, you’ll find a new serial port in the *Tools > Serial Port* menu (for details on installing the software, and USB-to-serial drivers for older Arduino models, see the [Arduino Getting Started Guide](https://www.arduino.cc/en/Guide/HomePage)). In OSX, the name will begin with */dev/tty.usbmodem-* if it’s an Arduino Uno later, and */dev/tty.usbserial-* if it’s a Duemilanove or earlier. In Windows it will start with *COM* like all the other serial ports.
 
 Write a program that reads the digital input on pin 2. When the switch is pressed, turn the yellow LED on and the red one off. When the switch is released, turn the red LED on and the yellow LED off.
 
