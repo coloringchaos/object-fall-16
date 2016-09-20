@@ -13,7 +13,7 @@ permalink: /lab-5/
 
 # **Lab 5 Resources:**
 
-+ [Analog Input Video](https://vimeo.com/86551311#t=0m56s)
++ Videos: [Analog Input 1](https://vimeo.com/86551311) and [Analog Input 2](https://vimeo.com/90534361)
 + Adafruit's guide to [Forse Sensitive Resistors (FSR)](https://learn.adafruit.com/force-sensitive-resistor-fsr)
 
 # **Digital Input and Output Lab:**
