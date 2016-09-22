@@ -16,7 +16,7 @@ permalink: /lab-5/
 + Videos: [Analog Input 1](https://vimeo.com/86551311) and [Analog Input 2](https://vimeo.com/90534361)
 + Adafruit's guide to [Forse Sensitive Resistors (FSR)](https://learn.adafruit.com/force-sensitive-resistor-fsr)
 
-# **Digital Input and Output Lab:**
+# **Analog Input and Output Lab:**
 
 **For this lab you will need the following parts:**
 

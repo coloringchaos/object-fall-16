@@ -66,35 +66,35 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Due: [Lab 5](/object-fall-16/lab-5)**
 
 # Week 6
-**Tuesday, September 27th** - Quiz 1, DIY Arduino, ATMega, Reading Data Sheets, Analog Circuits
+**Tuesday, September 27th** - Introduce Project 2, Quiz 1
 
 + **In Class: [Quiz 1]()**
 
-**Thursday, September 29th** - Open Source Hardware, Project Planning
+**Thursday, September 29th** - DIY Arduino, ATMega, Reading Data Sheets, Analog Circuits
 
 # Week 7
-**Tuesday, October 4th** - Transistors, Motors, Relays
+**Tuesday, October 4th** - Open Source Hardware
 
-+ **Due: [Lab 6]()**
++ **Due: [Lab 6](/object-fall-16/lab-6)**
 
-**Thursday, October 6th** - More Motors
+**Thursday, October 6th** - Transistors, Motors, Relays
 
 # Week 8
-**Tuesday, October 11th** - Work day
+**Tuesday, October 11th** - More Motors
 
 + **Due: [Lab 7]()**
 
-**Thursday, October 13th** - Schematics, Fritzing, EagleCAD, PCBs
+**Thursday, October 13th** - Work Day
 
 # Week 9
-**Tuesday, October 18th** - Work day
+**Tuesday, October 18th** - Schematics, Fritzing, EagleCAD, PCBs
 
-**Thursday, October 20th** - Presentations 
-
-+ **Due: [Project 2]()**
+**Thursday, October 20th** - Work day 
 
 # Week 10
-**Tuesday, October 25th** - Project Discussion 
+**Tuesday, October 25th** - Presentations, Upcoming Project Discussion 
+
++ **Due: [Project 2]()**
 
 *Thursday, October 27th - NO CLASS*
 
