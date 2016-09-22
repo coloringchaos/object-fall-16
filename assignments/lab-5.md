@@ -29,7 +29,7 @@ permalink: /lab-5/
 
 # **Part 1: Potentiometer**
 
-**Build a circuit with a potentiometer as the input, and an LED as the output. Use `analogRead()` for the incoming potentiometer value, and `analogWrite()` to set the brightness of the LED.**
+**Build a circuit with a potentiometer as the input, and an LED as the output. Use [`analogRead()`](https://www.arduino.cc/en/Reference/AnalogRead) for the incoming potentiometer value, and [`analogWrite()`](https://www.arduino.cc/en/Reference/AnalogWrite) to set the brightness of the LED.**
 
 **Setup the breadboard** <br> Connect a potentiometer to analog in pin 0 of the module, and an LED and a resistor to digital pin 9:
 
@@ -83,7 +83,7 @@ Build two voltage divider circuits that connect to A0 and A1, using ***variable 
 ![Lab 5 Schematic - Analog Input](/object-fall-16/assets/lab5-02.png)
 <br><br>
 
-In Part 1, you used a potentiometer as input which always gives the full range of analog values, which is 0 to 1023. You can divide this value by 4 to get a range of 0 to 255, which is the full output range of the analogWrite() command. 
+In Part 1, you used a potentiometer as input which always gives the full range of analog values, which is 0 to 1023. You can divide this value by 4 to get a range of 0 to 255, which is the full output range of the `analogWrite()` command. 
 
 A voltage divider circuit, on the other hand, can’t give you the full range. The fixed resistor in the circuit limits the range. You’ll need to modify the code or the resistor if you want a different range.
 

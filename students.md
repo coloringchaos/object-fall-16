@@ -15,7 +15,6 @@ This page contains links to the web portals of all students enrolled in the clas
 [Carolyn Castanon](https://crashandburnweb.wordpress.com/)<br>
 [Jimmy Cordova](https://jimmycordovatam.wordpress.com/category/object-fall-16/)<br>
 [Jack DeMay](https://jdemayblog.wordpress.com/)<br>
-[Jill Esquivel](https://jillesquivel.wordpress.com/)<br>
 [Gavin Frausto]()<br>
 [Michael Gough](https://7michaelg7.wordpress.com/)<br>
 [Taylor Hershberger](https://thershblog.wordpress.com/)<br>
