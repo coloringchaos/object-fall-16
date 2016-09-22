@@ -46,26 +46,23 @@ Then, map the result of the analog reading to a range from 0 to 179, which is th
 Finally, add the servo library at the beginning of your code, then make a variable to hold an instance of the library, and a variable for the servo’s output pin. In the setup(), initialize your servo using servo.attach(). Then in your main loop, use servoAngle to set the servo’s position.
 
 
-	#include &lt;Servo.h&gt;      // include the servo library
+	// include the servo library
 	 
-	Servo servoMotor;       // creates an instance of the servo object to control a servo
-	int servoPin = 3;       // Control pin for servo motor
+	// creates an instance of the servo object to control a servo
+	// declare the control pin for servo motor, call it servoPin
 	 
 	void setup() {
-	  Serial.begin(9600);       // initialize serial communications
-	  servoMotor.attach(servoPin);  // attaches the servo on pin 2 to the servo object
+	  // initialize serial communications
+	  // attach the servo object to the servoPin
 	} 
 	 
 	void loop() {
-	  int analogValue = analogRead(A0); // read the analog input
-	  Serial.println(analogValue);      // print it
+	  // read the analog input
+	  // print it to the serial monitor
 	 
-	  // if your sensor's range is less than 0 to 1023, you'll need to
-	  // modify the map() function to use the values you discovered:
-	  int servoAngle = map(analogValue, 0, 1023, 0, 179);
+	  // make a new int called angle - use the map() function to map the range of your sensor to the range of the servo (which is 0 to 179)
 	 
-	  // move the servo using the angle from the sensor:
-	  servoMotor.write(servoAngle);
+	  // move the servo using the angle from the sensor with the servo write() function
 	}
 
 Related Video: [Code for the Servo & Turn the Servo](https://vimeo.com/93608912#t=2m37s)
@@ -107,30 +104,27 @@ Connect two photoresistors to analog pin 0 in a voltage divider circuit as shown
 
 **Program the Microcontroller**
 
-First, check the sensor input range (the way you did in Lab 5). 
+First, check the sensor input range (the way you did in Lab 5). Note what sensor range you're getting. 
 	
 	void setup() {
-	  Serial.begin(9600);       // initialize serial communications
+	  // initialize serial communications
 	} 
 	 
 	void loop() {
-	  int analogValue = analogRead(A0); // read the analog input
-	  Serial.println(analogValue);      // print it
+	  // read the analog input
+	  // print it to the serial monitor
 	}
 
 Next, play tones! Write a program to read the analog input and map the result to a range from 100 to 1000. Store the result in a local variable called frequency. This will be the frequency you play on the speaker. Then use the tone() command to set the frequency of the speaker on pin 8.
 
 	void setup() {
-	    // nothing to do here
+	    // nothing else to do here
 	}
 	 
 	void loop() {
-	   // get a sensor reading:
-	   int sensorReading = analogRead(A0);
-	   // map the results from the sensor reading's range to the desired pitch range:
-	   float frequency = map(sensorReading, 200, 900, 100, 1000);
-	   // change the pitch, play for 10 ms:
-	   tone(8, frequency, 10);
+	   // read the analog input
+	   // map the results from the sensor reading's range to the desired pitch range, call this frequency (hint: the data type is a float)
+	   // play a tone() for 10ms at your frequency
 	}
 
 Once you’ve uploaded this, move your hands over the photocells, and listen to the frequency change. It will change from 100 Hz to 1000 HZ, because that’s what you set in the map() command. If you want to change the frequency range, change those two numbers. See if you can get it to play a little tune.
