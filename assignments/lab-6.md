@@ -6,8 +6,8 @@ permalink: /lab-6/
 
 # **Lab Objectives:**
 
-+ use `analogOut()` to drive a servo motor
-+ use `tone()` to generate a frequency
++ Use PWM to drive a servo motor
++ Use `tone()` to generate a frequency
 
 # **Lab 6 Resources:**
 
