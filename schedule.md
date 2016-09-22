@@ -72,10 +72,12 @@ This page has a breakdown of the general content that we will cover in each clas
 
 **Thursday, September 29th** - DIY Arduino, ATMega, Reading Data Sheets, Analog Circuits
 
++ **Due: [Lab 6](/object-fall-16/lab-6)**
+
 # Week 7
 **Tuesday, October 4th** - Open Source Hardware
 
-+ **Due: [Lab 6](/object-fall-16/lab-6)**
+
 
 **Thursday, October 6th** - Transistors, Motors, Relays
 
