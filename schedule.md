@@ -11,7 +11,7 @@ This page has a breakdown of the general content that we will cover in each clas
 # Week 1
 **Tuesday, August 23nd** - Introductions, Fantasy Device, Syllabus, Expectations
 
-**Thursday, August 25th** - Blogs, Basic Electronics, Identifying Components
+**Thursday, August 25th** - Blogs, Basic Electronics, Identifying Components - [**SLIDES**](/object-fall-16/assets/intro-slides.pdf)
 
 + **Due:** review course syllabus - bring any questions to class
 + **Read:** [How to Use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
@@ -48,7 +48,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 + **Due: [Project 1](/object-fall-16/project-1)** 
 
-**Thursday, September 15th** - Introduction to Arduino, Microcontroller basics, Digital in/out
+**Thursday, September 15th** - Introduction to Arduino, Microcontroller basics, Digital in/out - [**SLIDES**](/object-fall-16/assets/microcontrollers.pdf)
 
 + **Read:** [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontrollers-the-basics/)
 + **Read:** [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
