@@ -6,3 +6,5 @@ permalink: /lab-7/
 
 motors / transistors
 
+**group lab!
+

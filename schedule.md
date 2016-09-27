@@ -66,27 +66,38 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Due: [Lab 5](/object-fall-16/lab-5)**
 
 # Week 6
-**Tuesday, September 27th** - Introduce Project 2, Quiz 1
+**Tuesday, September 27th** - Quiz 1
 
-+ **In Class: [Quiz 1]()**
+**Thursday, September 29th** - Introduce Project 2, Timelines & Bill of Materials, Datasheets, Transistors, Motors
 
-**Thursday, September 29th** - DIY Arduino, ATMega, Reading Data Sheets, Analog Circuits
+<!-- DIY Arduino, ATMega,  -->
 
 + **Due: [Lab 6](/object-fall-16/lab-6)**
 
 # Week 7
 **Tuesday, October 4th** - Open Source Hardware
 
++ **Watch**: [What is Open Source Hardware](https://www.youtube.com/watch?v=9xGRaPrcvVg)
++ **Read:** [Production Bits](/object-fall-16/assets/gibb-production-bits.pdf)
++ **Read:** [Open Source Hardware Checklist](http://www.oshwa.org/wp-content/uploads/2014/08/Open-Source-Hardware-Checklist.pdf)
++ **Read:** [Open Source Lab Froward]()
 
 
-**Thursday, October 6th** - Transistors, Motors, Relays
+**Thursday, October 6th** - Project Workshop, Idea Generator, Reading Discussion
+
++ **Due: [Project 2 Proposal]()**
++ **Read:** Chapter 9 in [Make It So](http://object.ariellehein.com/readings/MakeItSo.pdf)
++ **Read:** Chapter 1 in [Speculative Everything](http://object.ariellehein.com/readings/SpeculativeEverything.pdf) (chapter 2 is optional but highly suggested)
++ **Watch:** [Speculative Everything](https://vimeo.com/65074246)
+
+
 
 # Week 8
 **Tuesday, October 11th** - More Motors
 
 + **Due: [Lab 7]()**
 
-**Thursday, October 13th** - Work Day
+**Thursday, October 13th** - Project Check-in, Work Day
 
 # Week 9
 **Tuesday, October 18th** - Schematics, Fritzing, EagleCAD, PCBs
@@ -100,12 +111,16 @@ This page has a breakdown of the general content that we will cover in each clas
 
 *Thursday, October 27th - NO CLASS*
 
+***Project 2 Documentation is due at 8pm on Friday, October 28th***
+
 # Week 11
+
 *Tuesday, November 1st - NO CLASS*
 
 **Thursday, November 3rd** - Introduction to Serial Communication
 
-+ **Due: [Sparkfun Visit]()**
++ *Extra Credit* - [Halloween Costume]()
+<!-- + **Due: [Sparkfun Visit]()** -->
 
 # Week 12
 **Tuesday, November 8th** - Serial Communication: sending bytes out and ASCII interpretation
