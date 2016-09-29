@@ -66,9 +66,9 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Due: [Lab 5](/object-fall-16/lab-5)**
 
 # Week 6
-**Tuesday, September 27th** - Quiz 1
+**Tuesday, September 27th** - [**Quiz 1**]()
 
-**Thursday, September 29th** - Introduce Project 2, Timelines & Bill of Materials, Datasheets, Transistors, Motors
+**Thursday, September 29th** - Introduce Project 2, Timelines & Bill of Materials, Datasheets, Motors
 
 <!-- DIY Arduino, ATMega,  -->
 
@@ -95,7 +95,7 @@ This page has a breakdown of the general content that we will cover in each clas
 # Week 8
 **Tuesday, October 11th** - More Motors
 
-+ **Due: [Lab 7]()**
++ **Due: [Lab 7](/object-fall-16/lab-7)**
 
 **Thursday, October 13th** - Project Check-in, Work Day
 
@@ -107,7 +107,7 @@ This page has a breakdown of the general content that we will cover in each clas
 # Week 10
 **Tuesday, October 25th** - Presentations, Upcoming Project Discussion 
 
-+ **Due: [Project 2]()**
++ **Due: [Project 2](/object-fall-16/project-2)**
 
 *Thursday, October 27th - NO CLASS*
 
