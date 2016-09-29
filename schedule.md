@@ -80,7 +80,7 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Watch**: [What is Open Source Hardware](https://www.youtube.com/watch?v=9xGRaPrcvVg)
 + **Read:** [Production Bits](/object-fall-16/assets/gibb-production-bits.pdf)
 + **Read:** [Open Source Hardware Checklist](http://www.oshwa.org/wp-content/uploads/2014/08/Open-Source-Hardware-Checklist.pdf)
-+ **Read:** [Open Source Lab Froward]()
++ **Read:** [Open Source Lab Froward](/object-fall-16/assets/open-source-lab.pdf))
 
 
 **Thursday, October 6th** - Project Workshop, Idea Generator, Reading Discussion
