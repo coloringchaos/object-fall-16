@@ -85,7 +85,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 **Thursday, October 6th** - Project Workshop, Reading Discussion, Motors
 
-+ **Due: [Project 2 Proposal]()**
++ **Due: [Project 2 Proposal](/object-fall-16/p2-proposal)**
 + **Read:** Chapter 9 in [Make It So](http://object.ariellehein.com/readings/MakeItSo.pdf)
 + **Read:** Chapter 1 in [Speculative Everything](http://object.ariellehein.com/readings/SpeculativeEverything.pdf) (chapter 2 is optional but highly suggested)
 + **Watch:** [Speculative Everything](https://vimeo.com/65074246)
