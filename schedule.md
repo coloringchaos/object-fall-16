@@ -75,15 +75,15 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Due: [Lab 6](/object-fall-16/lab-6)**
 
 # Week 7
-**Tuesday, October 4th** - Open Source Hardware
+**Tuesday, October 4th** - Open Source Hardware, Idea Generator
 
 + **Watch**: [What is Open Source Hardware](https://www.youtube.com/watch?v=9xGRaPrcvVg)
 + **Read:** [Production Bits](/object-fall-16/assets/gibb-production-bits.pdf)
 + **Read:** [Open Source Hardware Checklist](http://www.oshwa.org/wp-content/uploads/2014/08/Open-Source-Hardware-Checklist.pdf)
-+ **Read:** [Open Source Lab Froward](/object-fall-16/assets/open-source-lab.pdf))
++ **Read:** [Open Source Lab Froward](/object-fall-16/assets/open-source-lab.pdf)
 
 
-**Thursday, October 6th** - Project Workshop, Idea Generator, Reading Discussion
+**Thursday, October 6th** - Project Workshop, Reading Discussion, Motors
 
 + **Due: [Project 2 Proposal]()**
 + **Read:** Chapter 9 in [Make It So](http://object.ariellehein.com/readings/MakeItSo.pdf)
