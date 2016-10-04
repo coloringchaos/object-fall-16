@@ -75,7 +75,7 @@ This page has a breakdown of the general content that we will cover in each clas
 + **Due: [Lab 6](/object-fall-16/lab-6)**
 
 # Week 7
-**Tuesday, October 4th** - Open Source Hardware, Idea Generator
+**Tuesday, October 4th** - Open Source Hardware, [Idea Generator](http://ariellehein.com/ahc-idea-gen/)
 
 + **Watch**: [What is Open Source Hardware](https://www.youtube.com/watch?v=9xGRaPrcvVg)
 + **Read:** [Production Bits](/object-fall-16/assets/gibb-production-bits.pdf)
