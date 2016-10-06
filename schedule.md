@@ -93,11 +93,11 @@ This page has a breakdown of the general content that we will cover in each clas
 
 
 # Week 8
-**Tuesday, October 11th** - More Motors
+**Tuesday, October 11th** - Guest Lecture with Jiffer Harriman: Hardware + Sound
 
-+ **Due: [Lab 7](/object-fall-16/lab-7)**
++ **Due: [Lab 7]()**
 
-**Thursday, October 13th** - Project Check-in, Work Day
+**Thursday, October 13th** - Guest Lecture with Jiffer Harriman: Hardware + Sound, Project Check-in, Work Day
 
 # Week 9
 **Tuesday, October 18th** - Schematics, Fritzing, EagleCAD, PCBs
