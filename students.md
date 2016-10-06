@@ -6,7 +6,7 @@ permalink: /students/
 
 This page contains links to the web portals of all students enrolled in the class. 
 
-[Random Name Picker](http://creative.colorado.edu/~heinae/name-picker/object-fall16/) for Project Presentations
+[Random Name Picker](http://creative.colorado.edu/~heinae/name-picker/object-fall16/)
 
 [Paige Alleman](https://paigelalleman.wordpress.com/category/object/)<br>
 [Lupe Avalos](https://lupitasnoticias.wordpress.com/category/object/)<br>
