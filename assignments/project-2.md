@@ -21,9 +21,9 @@ While a working prototype is required, this is also an exercise in design fictio
 
 + a formal description / summary of the project (~500 words) 
 + ACH in situ (whatever format you chose)
-+ high-quality photos or video of your finished project
-+ drawings of the interaction 
-+ a drawing of your circuit
++ high-quality photos of the finished object 
++ video of your working project
++ schematic drawing of your circuit (created in Fritzing or EagleCAD)
 + the code for your project
 
 <br>

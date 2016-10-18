@@ -100,9 +100,9 @@ This page has a breakdown of the general content that we will cover in each clas
 **Thursday, October 13th** - Guest Lecture with Jiffer Harriman: Hardware + Sound, Project Check-in, Work Day
 
 # Week 9
-**Tuesday, October 18th** - Schematics, Fritzing, EagleCAD, PCBs
+**Tuesday, October 18th** - Project Checkin, Work day
 
-**Thursday, October 20th** - Work day 
+**Thursday, October 20th** - Schematics, Fritzing, EagleCAD, PCBs, Work Day
 
 # Week 10
 **Tuesday, October 25th** - Presentations, Upcoming Project Discussion 
@@ -111,7 +111,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 *Thursday, October 27th - NO CLASS*
 
-***Project 2 Documentation is due at 8pm on Friday, October 28th***
+***Project 2 Documentation is due by the end of the day on Friday, October 28th***
 
 # Week 11
 
