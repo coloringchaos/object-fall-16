@@ -102,7 +102,7 @@ This page has a breakdown of the general content that we will cover in each clas
 # Week 9
 **Tuesday, October 18th** - Project Checkin, Work day
 
-**Thursday, October 20th** - Schematics, Fritzing, EagleCAD, PCBs, Work Day
+**Thursday, October 20th** - Schematics, Fritzing, EagleCAD, PCBs, Work Day - [Slides](https://docs.google.com/presentation/d/17H2NSKS7Kt6cusesLtVWmvwApIzdsUeuMXLYXQ6HeFM/edit?usp=sharing)
 
 # Week 10
 **Tuesday, October 25th** - Presentations, Upcoming Project Discussion 
