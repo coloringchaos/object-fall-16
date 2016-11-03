@@ -119,22 +119,25 @@ This page has a breakdown of the general content that we will cover in each clas
 
 **Thursday, November 3rd** - Introduction to Serial Communication
 
-+ *Extra Credit* - [Halloween Costume]()
+*Extra Credit* - [Halloween Costume](/object-fall-16/halloween)
 <!-- + **Due: [Sparkfun Visit]()** -->
 
 # Week 12
 **Tuesday, November 8th** - Serial Communication: sending bytes out and ASCII interpretation
+
++ Watch: [Intro to Serial Communication](https://vimeo.com/97518082)
++ Read: [Tom Igoe on Serial Communication](http://tigoe.net/pcomp/code/communication/serial-communication/)
++ Read: [Asynchronous Serial Communication](https://itp.nyu.edu/physcomp/lessons/serial-communication/serial-communication-the-basics/)
++ Read: [Synchronous Serial Communication](https://itp.nyu.edu/physcomp/lessons/serial-communication/synchronous-serial-communication-the-basics/)
 
 **Thursday, November 10th** - Serial Communication: Arduino to P5
 
 + **Due: [Lab 8]()**
 
 # Week 13
-**Tuesday, November 15th** - Special topics based on student interest
+**Tuesday, November 15th** - [**Quiz 2**]()
 
-+ **In Class: [Quiz 2]()**
-
-**Thursday, November 17th** - Special topics based on student interest
+**Thursday, November 17th** - Playtesting, show progress on final projects
 
 # Week 14 - FALL BREAK
 *Tuesday, November 22nd - NO CLASS*
@@ -147,13 +150,14 @@ This page has a breakdown of the general content that we will cover in each clas
 **Thursday, December 1st** - Work Day
 
 # Week 16
-**Tuesday, December 6th** - Presentations
-
-+ **Due: [Project 3]()**
+**Tuesday, December 6th** - Work Day, Documentation
 
 **Wednesday, December 7th - [ATLAS EXPO]() at 5pm**
 
-**Thursday, December 8th** - Final Documentation, Wrap-up
+**Thursday, December 8th** - Presentations
 
++ **Due: [Project 3](/object-fall-16/project-3)**
+
+***Project 3 Documentation is due by the end of the day on Sunday, December 11th***
 
 
