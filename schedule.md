@@ -123,19 +123,21 @@ This page has a breakdown of the general content that we will cover in each clas
 <!-- + **Due: [Sparkfun Visit]()** -->
 
 # Week 12
-**Tuesday, November 8th** - Serial Communication: sending bytes out and ASCII interpretation
+**Tuesday, November 8th** - Serial Communication: Arduino to P5 
 
 + Watch: [Intro to Serial Communication](https://vimeo.com/97518082)
 + Read: [Tom Igoe on Serial Communication](http://tigoe.net/pcomp/code/communication/serial-communication/)
 + Read: [Asynchronous Serial Communication](https://itp.nyu.edu/physcomp/lessons/serial-communication/serial-communication-the-basics/)
 + Read: [Synchronous Serial Communication](https://itp.nyu.edu/physcomp/lessons/serial-communication/synchronous-serial-communication-the-basics/)
 
-**Thursday, November 10th** - Serial Communication: Arduino to P5
+**Thursday, November 10th** - Serial Communication: sending bytes out and ASCII interpretation
 
-+ **Due: [Lab 8]()**
++ **Due: [Project 3 Proposal](/object-fall-16/p3-proposal)**
 
 # Week 13
 **Tuesday, November 15th** - [**Quiz 2**]()
+
++ **Due: [Lab 8](/object-fall-16/lab-8)**
 
 **Thursday, November 17th** - Playtesting, show progress on final projects
 
