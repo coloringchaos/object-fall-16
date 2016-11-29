@@ -149,14 +149,16 @@ This page has a breakdown of the general content that we will cover in each clas
 # Week 15
 **Tuesday, November 29th** - Playtesting
 
-**Thursday, December 1st** - Work Day
+**Thursday, December 1st** - Work Day - *class is optional if attending the Friday Sparkfun tour*
+
+**Friday, December 2nd - SPARKFUN VISIT @ 3pm**
 
 # Week 16
 **Tuesday, December 6th** - Work Day, Documentation
 
 **Wednesday, December 7th - [ATLAS EXPO]() at 5pm**
 
-**Thursday, December 8th** - Presentations
+**Thursday, December 8th** - Critique & Project Presentations
 
 + **Due: [Project 3](/object-fall-16/project-3)**
 
